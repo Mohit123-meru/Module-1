@@ -12,8 +12,8 @@ print (type(he_is_active))
 print (type(str(number)))
 code = name[0:2:1] + name[-1]
 gad = fav[::-1]
-
-
+print (code)
+print (gad)
 
 
 
