@@ -14,6 +14,7 @@ code = name[0:2:1] + name[-1]
 gad = fav[::-1]
 print (code)
 print (gad)
+print ("bye!")
 
 
 
