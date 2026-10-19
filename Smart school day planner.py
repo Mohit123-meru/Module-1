@@ -21,6 +21,6 @@ if not homework == "yes":
 if not homework == "yes" and weather in ("Cloudy", "Rainy"):
     print ("Best plan : You should stay indoors and complete your homework.")
 elif not homework == "no" and weather == "Sunny":
-    print ("You are all set for a good school day.")
+    print ("Best plan : You are all set for a good school day.")
 
     
